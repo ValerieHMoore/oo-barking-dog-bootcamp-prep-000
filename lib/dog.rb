@@ -12,7 +12,7 @@ class Dog
   @this_dogs_name
   end
 
-  lassie = Dog.new
-  lassie.name = "Lassie"
-  puts lassie.name
+  #lassie = Dog.new
+  #lassie.name = "Lassie"
+  #puts lassie.name
 end
